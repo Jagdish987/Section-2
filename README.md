@@ -1,4 +1,7 @@
-Jagdish, Choudhary
-Karpit Jayendrabhai, Patel
-Akshata Ajay, Madhav
-Anu Priya, Radhakrishnan
+Choudhary, Jagdish
+
+Patel, Karpit Jayendrabhai
+
+Madhav, Akshata Ajay
+
+Radhakrishnan, Anu Priya
